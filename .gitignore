@@ -43,6 +43,7 @@
 
 bin/
 obj/
+build/
 *.user
 
 # CMake
